@@ -1,12 +1,12 @@
 <!DOCTYPEhtml>
-<html lang="en>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> LYKA ANDAYA PORTFOLIO</title>
     <style>
         body {
-          background-image: https://t4.ftcdn.net/jpg/03/06/90/01/360_F_306900188_b043M0oNdovyPtGMeV9Se4DL1tvp4GaV.jpg;
+          background-image: https://t4.ftcdn.net/jpg/03/06/9/01/360_F_306900188_b043M0oNdovyPtGMeV9Se4DL1tvp4GaV.jpg;
           background-size: cover;
           margin: 0;
           padding: 0;
