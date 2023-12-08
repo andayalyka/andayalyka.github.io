@@ -48,8 +48,9 @@
       <h2>Prelim Exam</h2>
       <p><a href="https://github.com/andayalyka/Andaya_PrelimExam">Prelim Exam Repository</a></p>
     </section>
-    
-      <h3>Midterm Activities (ALL HOA)</h3>
+
+    <section>
+      <h2>Midterm Activities (ALL HOA)</h2>
       <ul>
         <li><a href="https://github.com/andayalyka/HOA6.1">HOA6.1</a></li>
         <li><a href="https://github.com/andayalyka/HOA7">HOA7</a></li>
@@ -58,12 +59,14 @@
         <li><a href="https://github.com/andayalyka/HOA10.1">HOA10.1</a></li>
       </ul>
     </section>
+    
     <section>
-      <h3>Midterm Exam</h2>
+      <h2>Midterm Exam</h2>
       <p><a href="https://github.com/andayalyka/CPE_MIDEXAM_ANDAYA">Midterm Exam Repository</a></p>
     </section>
-
-      <h4>Final Activities (ALL HOA)</h4>
+    
+    <section>
+      <h2>Final Activities (ALL HOA)</h2>
       <ul>
         <li><a href="https://github.com/andayalyka/HOA11.1">HOA11.1</a></li>
         <li><a href="https://github.com/andayalyka/HOA12.1">HOA12.1</a></li>
@@ -71,6 +74,10 @@
         <li><a href="https://github.com/andayalyka/HOA14.1">HOA14.1</a></li>
         <li><a href="https://github.com/andayalyka/HOA15.1">HOA15.1</a></li>
       </ul>
+    </section>
+    <section>
+        <h2>Reflection and Learnings></h2>
+        <p><a href="https://docs.google.com/document/d/1RbFz-fbXYGKTbeRVMyBvrL1UnRwcNXL8WQ8uAfT8fME/edit">Reflection and Learnings Document</a></p>
     </section>
     </main>
 </body>
