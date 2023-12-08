@@ -49,7 +49,7 @@
       <p><a href="https://github.com/andayalyka/Andaya_PrelimExam">Prelim Exam Repository</a></p>
     </section>
     
-      <h2>Midterm Activities (ALL HOA)</h2>
+      <h3>Midterm Activities (ALL HOA)</h3>
       <ul>
         <li><a href="https://github.com/andayalyka/HOA6.1">HOA6.1</a></li>
         <li><a href="https://github.com/andayalyka/HOA7">HOA7</a></li>
@@ -59,11 +59,11 @@
       </ul>
     </section>
     <section>
-      <h2>Prelim Exam</h2>
+      <h3>Midterm Exam</h2>
       <p><a href="https://github.com/andayalyka/CPE_MIDEXAM_ANDAYA">Midterm Exam Repository</a></p>
     </section>
 
-      <h2>Midterm Activities (ALL HOA)</h2>
+      <h4>Final Activities (ALL HOA)</h4>
       <ul>
         <li><a href="https://github.com/andayalyka/HOA11.1">HOA11.1</a></li>
         <li><a href="https://github.com/andayalyka/HOA12.1">HOA12.1</a></li>
