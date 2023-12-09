@@ -33,6 +33,10 @@
             border-bottom: 1px solid #fff;
             padding-bottom: 5px;
         }
+        h3 {
+            padding: 20px;
+            text-align: center;
+            background: rgba(0, 0, 0, 0.5);
         ul {
             list-style-type: none;
             padding: 0;
