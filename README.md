@@ -6,7 +6,7 @@
     <title>LYKA ANDAYA PORTFOLIO</title>
     <style>
         body {
-          background-image: url('hhttps://wallpapercg.com/media/ts_orig/7289.webp');
+          background-image: url('[hhttps://wallpapercg.com/media/ts_orig/7289.webp](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrJaTlwIBimqM9rQbuA2_y4auB7CVzFVtwg&usqp=CAU)');
           background-size: cover;
           margin: 0;
           padding: 0;
