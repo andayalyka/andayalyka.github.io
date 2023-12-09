@@ -6,7 +6,7 @@
     <title>LYKA ANDAYA PORTFOLIO</title>
     <style>
         body {
-          background-image: url('https://static.vecteezy.com/system/resources/thumbnails/012/132/689/small/abstract-studio-room-blue-and-pink-neon-color-glowing-lighting-effect-with-decoration-dust-background-vector.jpg');
+          background-image: url('hhttps://wallpapercg.com/media/ts_orig/7289.webp');
           background-size: cover;
           margin: 0;
           padding: 0;
