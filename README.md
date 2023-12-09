@@ -45,7 +45,6 @@
         ul {
             list-style-type: none;
             padding: 0;
-            color: #fff;
         }
         li {
             margin-bottom: 10px;
