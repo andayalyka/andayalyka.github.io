@@ -115,6 +115,16 @@
         </section>
 
         <section>
+            <h2>My Repository</h2>
+            <ul>
+                <li><a href="https://github.com/andayalyka?tab=repositories">Repository</a></li>
+            </u>
+        </section>
+            <h2>If you have concern kindly message me here:</h2>
+            <ul>
+                <h2><a "qlandaya1@tip.edu.ph">Gmail</a></h2>
+                <li><a href="https://www.facebook.com/LykaAndaya21">Facebook</a></li>
+        <section>
             <h2>Reflection and Learnings</h2>
             <p><a href="https://docs.google.com/document/d/1RbFz-fbXYGKTbeRVMyBvrL1UnRwcNXL8WQ8uAfT8fME/edit">Reflection and Learnings Document</a></p>
         </section>
