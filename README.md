@@ -6,7 +6,7 @@
     <title>LYKA ANDAYA PORTFOLIO</title>
     <style>
         body {
-          background-image: url('[[https://4kwallpapers.com/images/wallpapers/neon-background-4480x2520-12487.jpg](https://img.freepik.com/premium-photo/wall-with-neon-lights-blue-red-neon-background_635062-199.jpg)](https://img.freepik.com/premium-photo/wall-with-neon-lights-blue-red-neon-background_635062-199.jpg)');
+          background-image: url('https://img.freepik.com/premium-photo/wall-with-neon-lights-blue-red-neon-background_635062-199.jpg');
           background-size: cover;
           margin: 0;
           padding: 0;
