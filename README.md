@@ -118,11 +118,11 @@
             <h2>My Repository</h2>
             <ul>
                 <li><a href="https://github.com/andayalyka?tab=repositories">Repository</a></li>
-            </u>
+            </ul>
         </section>
             <h2>If you have concern kindly message me here:</h2>
+            <h3>Gmail: qlandaya1@tip.edu.ph</h3>
             <ul>
-                <h2><a "qlandaya1@tip.edu.ph">Gmail</a></h2>
                 <li><a href="https://www.facebook.com/LykaAndaya21">Facebook</a></li>
         <section>
             <h2>Reflection and Learnings</h2>
