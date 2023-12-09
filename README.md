@@ -11,7 +11,7 @@
             margin: 0;
             padding: 0;
             font-family: 'Arial', sans-serif;
-            color: #fff;
+            color: #000000;
         }
         header {
             padding: 20px;
