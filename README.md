@@ -6,7 +6,7 @@
     <title>LYKA ANDAYA PORTFOLIO</title>
     <style>
         body {
-          background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5fxzfz9OCVgwrO7IrwGf72z61razYmtZ2Sg&usqp=CAU');
+          background-image: url('https://w0.peakpx.com/wallpaper/138/54/HD-wallpaper-neon-mask-man-blue-light-night-red-smoke.jpg');
           background-size: cover;
           margin: 0;
           padding: 0;
