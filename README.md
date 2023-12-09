@@ -61,7 +61,7 @@
 </head>
 <body>
     <header>
-        <img src="https://scontent.fmnl33-2.fna.fbcdn.net/v/t1.6435-9/199500655_116262917338214_4893920733149509476_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeGuhWI9-vlMr9slgQQzjLHrcIu2dfZ8zG5wi7Z19nzMbklmUH2cGZn0uQgYDsd7mXIkqGEgtalSsFMEv9XUHt7f&_nc_ohc=ck4ZPI4yeIcAX9yQ9xu&_nc_ht=scontent.fmnl33-2.fna&oh=00_AfCHCBeYki2-rUrnnnJCyy8BbdcrteyOi278DkXyw3KGhg&oe=659BD1F0" alt="Portfolio Image" style="max-width: 100%; height: auto; border-radius: 50%;">
+        <img src="https://scontent.fmnl33-2.fna.fbcdn.net/v/t1.6435-9/199500655_116262917338214_4893920733149509476_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeGuhWI9-vlMr9slgQQzjLHrcIu2dfZ8zG5wi7Z19nzMbklmUH2cGZn0uQgYDsd7mXIkqGEgtalSsFMEv9XUHt7f&_nc_ohc=ck4ZPI4yeIcAX9yQ9xu&_nc_ht=scontent.fmnl33-2.fna&oh=00_AfCHCBeYki2-rUrnnnJCyy8BbdcrteyOi278DkXyw3KGhg&oe=659BD1F0" alt="Portfolio Image" style="max-width: 50%; height: auto; border-radius: 25%;">
         <h1>LYKA ANDAYA PORTFOLIO</h1>
         <h3>Course</h3>
         <span>Computer Engineering</span>
