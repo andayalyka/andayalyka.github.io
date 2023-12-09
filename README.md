@@ -6,7 +6,7 @@
     <title>LYKA ANDAYA PORTFOLIO</title>
     <style>
         body {
-          background-image: url('https://media.istockphoto.com/id/1586655239/photo/3d-neon-light-effect-with-black-glowing-background.webp?b=1&s=170667a&w=0&k=20&c=D1Y4OVEuX0aqEz-pO3Rbivfe4-I0hzMdKH0GiSz4rgE=');
+          background-image: url('https://png.pngtree.com/background/20230617/original/pngtree-abstract-wallpaper-with-neon-light-in-blue-pink-and-violet-3d-picture-image_3699193.jpg');
           background-size: cover;
           margin: 0;
           padding: 0;
