@@ -6,7 +6,7 @@
     <title>LYKA ANDAYA PORTFOLIO</title>
     <style>
         body {
-          background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2F4kwallpapers.com%2Fgraphics-cgi%2Fneon-background-12487.html&psig=AOvVaw0mGuNb_Wgf9CAStFXaDQlA&ust=1702172129609000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiDucCbgYMDFQAAAAAdAAAAABAw');
+          background-image: url('https://4kwallpapers.com/images/wallpapers/neon-background-5120x2880-12487.jpg');
           background-size: cover;
           margin: 0;
           padding: 0;
