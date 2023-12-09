@@ -34,7 +34,7 @@
             border-bottom: 1px solid #fff;
             padding-bottom: 5px;
         }
-        h3 {
+        h4 {
             padding: 20px;
             text-align: center;
             background: rgba(0, 0, 0, 0.5);
@@ -70,9 +70,9 @@
         <h1>LYKA ANDAYA PORTFOLIO</h1>
         <h3>Course</h3>
         <span>Computer Engineering</span>
-        <h3>Section</h3>
+        <h4>Section</h4>
         <span>CPE31S4</span>
-        <h3>Course Code</h3>
+        <h4>Course Code</h4>
         <span>CPE232</span>
     </header>
     <main>
