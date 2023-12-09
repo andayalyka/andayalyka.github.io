@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,25 +6,47 @@
     <title>LYKA ANDAYA PORTFOLIO</title>
     <style>
         body {
-          background-image: url('https://img.freepik.com/premium-photo/wall-with-neon-lights-blue-red-neon-background_635062-199.jpg');
-          background-size: cover;
-          margin: 0;
-          padding: 0;
-          font-family: 'Arial', sans-serif;
-          color: #fff;
+            background-image: url('https://img.freepik.com/premium-photo/wall-with-neon-lights-blue-red-neon-background_635062-199.jpg');
+            background-size: cover;
+            margin: 0;
+            padding: 0;
+            font-family: 'Arial', sans-serif;
+            color: #fff;
         }
         header {
-          padding: 20px; /* Removed single quotes around the value */
-          text-align: center;
-          background: rgba(0, 0, 0, 0.5);
+            padding: 20px;
+            text-align: center;
+            background: rgba(0, 0, 0, 0.5);
         }
         main {
-            padding: 20px; /* Removed single quotes around the value */
+            padding: 20px;
         }
         img {
-          max-width: 100%;
-          height: auto;
-          border-radius: 50%; /* Added semicolon to the end of the line */
+            max-width: 100%;
+            height: auto;
+            border-radius: 50%;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        h2 {
+            border-bottom: 1px solid #fff;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
@@ -77,7 +99,7 @@
         </section>
 
         <section>
-            <h2>Reflection and Learnings</h2> <!-- Removed the extra closing angle bracket -->
+            <h2>Reflection and Learnings</h2>
             <p><a href="https://docs.google.com/document/d/1RbFz-fbXYGKTbeRVMyBvrL1UnRwcNXL8WQ8uAfT8fME/edit">Reflection and Learnings Document</a></p>
         </section>
         
