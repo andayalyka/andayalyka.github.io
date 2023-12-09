@@ -129,7 +129,6 @@
         <section>
             <h2>If you have a concern, kindly message me here:</h2>
             <ul>
-                <li><a href="mailto:qlandaya1@tip.edu.ph">Gmail</a></li>
                 <li>Email: qlandaya1@tip.edu.ph</li>
                 <li><a href="https://www.facebook.com/LykaAndaya21">Facebook</a></li>
             </ul>
