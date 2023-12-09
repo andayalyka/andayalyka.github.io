@@ -6,7 +6,7 @@
     <title>LYKA ANDAYA PORTFOLIO</title>
     <style>
         body {
-          background-image: url('https://t4.ftcdn.net/jpg/03/06/9/01/360_F_306900188_b043M0oNdovyPtGMeV9Se4DL1tvp4GaV.jpg');
+          background-image: url('https://static.vecteezy.com/system/resources/thumbnails/012/132/689/small/abstract-studio-room-blue-and-pink-neon-color-glowing-lighting-effect-with-decoration-dust-background-vector.jpg');
           background-size: cover;
           margin: 0;
           padding: 0;
@@ -80,6 +80,7 @@
             <h2>Reflection and Learnings</h2> <!-- Removed the extra closing angle bracket -->
             <p><a href="https://docs.google.com/document/d/1RbFz-fbXYGKTbeRVMyBvrL1UnRwcNXL8WQ8uAfT8fME/edit">Reflection and Learnings Document</a></p>
         </section>
+        
     </main>
 </body>
 </html>
