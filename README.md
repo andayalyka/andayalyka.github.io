@@ -57,7 +57,7 @@
 <body>
     <header>
         <h1>LYKA ANDAYA PORTFOLIO</h1>
-        <span>Computer Engineering</span>
+        <h2>Computer Engineering</h2>
         <h3>Section</h3>
         <span>CPE31S4</span>
         <h3>Course Code</h3>
