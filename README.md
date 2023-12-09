@@ -37,6 +37,10 @@
             padding: 20px;
             text-align: center;
             background: rgba(0, 0, 0, 0.5);
+        span {
+            padding: 20px;
+            text-align: center;
+            background: rgba(0, 0, 0, 0.5);
         ul {
             list-style-type: none;
             padding: 0;
@@ -57,6 +61,8 @@
 <body>
     <header>
         <h1>LYKA ANDAYA PORTFOLIO</h1>
+        <h3>Course</h3>
+        <span>Computer Engineering</span>
         <h3>Section</h3>
         <span>CPE31S4</span>
         <h3>Course Code</h3>
