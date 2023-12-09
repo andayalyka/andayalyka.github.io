@@ -138,6 +138,7 @@
         <section>
             <h2>Reflection and Learnings</h2>
             <p><a href="https://docs.google.com/document/d/1RbFz-fbXYGKTbeRVMyBvrL1UnRwcNXL8WQ8uAfT8fME/edit">Reflection and Learnings Document</a></p>
+            <h3>Reflectio</h3>
             <p>
                Embarking on the venture of establishing a GitHub portfolio website and overseeing enterprise servers has proven to be a highly enriching experience, equipping me with a versatile skill set that encompasses both front-end web development and the intricacies of server administration.
 
