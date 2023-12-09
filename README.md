@@ -61,6 +61,7 @@
 </head>
 <body>
     <header>
+        <img src=""C:\Users\Lyka Andaya\OneDrive\Pictures\profile1.jpg"" alt="Portfolio Image" style="max-width: 100%; height: auto; border-radius: 50%;">
         <h1>LYKA ANDAYA PORTFOLIO</h1>
         <h3>Course</h3>
         <span>Computer Engineering</span>
