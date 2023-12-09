@@ -17,13 +17,13 @@
             padding: 20px;
             text-align: center;
             background: rgba(0, 0, 0, 0.5);
-            color:#fff;
+            color: #fff;
         }
         main {
             padding: 20px;
         }
         img {
-            max-width: 100%;
+            max-width: 20%;
             height: auto;
             border-radius: 50%;
         }
@@ -38,10 +38,12 @@
             padding: 20px;
             text-align: center;
             background: rgba(0, 0, 0, 0.5);
+        }
         span {
             padding: 20px;
             text-align: center;
             background: rgba(0, 0, 0, 0.5);
+        }
         ul {
             list-style-type: none;
             padding: 0;
@@ -57,11 +59,14 @@
         a:hover {
             text-decoration: underline;
         }
+        h4 {
+            margin: 0; /* Reset margin for the h4 element */
+        }
     </style>
 </head>
 <body>
     <header>
-        <img src="https://scontent.fmnl33-2.fna.fbcdn.net/v/t1.6435-9/199500655_116262917338214_4893920733149509476_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeGuhWI9-vlMr9slgQQzjLHrcIu2dfZ8zG5wi7Z19nzMbklmUH2cGZn0uQgYDsd7mXIkqGEgtalSsFMEv9XUHt7f&_nc_ohc=ck4ZPI4yeIcAX9yQ9xu&_nc_ht=scontent.fmnl33-2.fna&oh=00_AfCHCBeYki2-rUrnnnJCyy8BbdcrteyOi278DkXyw3KGhg&oe=659BD1F0" alt="Portfolio Image" style="max-width: 20%; height: auto; border-radius: 50%;">
+        <img src="https://scontent.fmnl33-2.fna.fbcdn.net/v/t1.6435-9/199500655_116262917338214_4893920733149509476_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeGuhWI9-vlMr9slgQQzjLHrcIu2dfZ8zG5wi7Z19nzMbklmUH2cGZn0uQgYDsd7mXIkqGEgtalSsFMEv9XUHt7f&_nc_ohc=ck4ZPI4yeIcAX9yQ9xu&_nc_ht=scontent.fmnl33-2.fna&oh=00_AfCHCBeYki2-rUrnnnJCyy8BbdcrteyOi278DkXyw3KGhg&oe=659BD1F0" alt="Portfolio Image">
         <h1>LYKA ANDAYA PORTFOLIO</h1>
         <h3>Course</h3>
         <span>Computer Engineering</span>
@@ -120,11 +125,16 @@
                 <li><a href="https://github.com/andayalyka?tab=repositories">Repository</a></li>
             </ul>
         </section>
-            <h2>If you have concern kindly message me here:</h2>
+
+        <section>
+            <h2>If you have a concern, kindly message me here:</h2>
             <ul>
-                <li><a href="https://mail.google.com/">Gmail</a></li>
-                <h4>qlandaya1@tip.edu.ph</h4>
+                <li><a href="mailto:qlandaya1@tip.edu.ph">Gmail</a></li>
+                <li>Email: qlandaya1@tip.edu.ph</li>
                 <li><a href="https://www.facebook.com/LykaAndaya21">Facebook</a></li>
+            </ul>
+        </section>
+
         <section>
             <h2>Reflection and Learnings</h2>
             <p><a href="https://docs.google.com/document/d/1RbFz-fbXYGKTbeRVMyBvrL1UnRwcNXL8WQ8uAfT8fME/edit">Reflection and Learnings Document</a></p>
