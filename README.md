@@ -17,6 +17,7 @@
             padding: 20px;
             text-align: center;
             background: rgba(0, 0, 0, 0.5);
+            color:#fff;
         }
         main {
             padding: 20px;
