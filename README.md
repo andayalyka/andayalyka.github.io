@@ -121,8 +121,9 @@
             </ul>
         </section>
             <h2>If you have concern kindly message me here:</h2>
-            <h4>Gmail: qlandaya1@tip.edu.ph</h4>
             <ul>
+                <li><a href="https://mail.google.com/">Gmail</a></li>
+                <h4>qlandaya1@tip.edu.ph</h4>
                 <li><a href="https://www.facebook.com/LykaAndaya21">Facebook</a></li>
         <section>
             <h2>Reflection and Learnings</h2>
