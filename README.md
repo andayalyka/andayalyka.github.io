@@ -6,7 +6,7 @@
     <title>LYKA ANDAYA PORTFOLIO</title>
     <style>
         body {
-          background-image: url('https://static.vecteezy.com/system/resources/previews/027/894/208/non_2x/abstract-futuristic-cyber-tech-neon-background-generative-ai-free-photo.jpg');
+          background-image: url('[https://static.vecteezy.com/system/resources/previews/027/894/208/non_2x/abstract-futuristic-cyber-tech-neon-background-generative-ai-free-photo.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fwallpapers%2Fcolors%2Fneon&psig=AOvVaw0mGuNb_Wgf9CAStFXaDQlA&ust=1702172129609000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiDucCbgYMDFQAAAAAdAAAAABAD)');
           background-size: cover;
           margin: 0;
           padding: 0;
